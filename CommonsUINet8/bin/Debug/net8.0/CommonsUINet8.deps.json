@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CommonsUINet8/1.0.0": {
+        "runtime": {
+          "CommonsUINet8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommonsUINet8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

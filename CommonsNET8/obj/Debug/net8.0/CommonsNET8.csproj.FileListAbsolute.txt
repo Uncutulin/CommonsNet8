@@ -1,0 +1,12 @@
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\obj\Debug\net8.0\CommonsNET8.csproj.AssemblyReference.cache
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\obj\Debug\net8.0\CommonsNET8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\obj\Debug\net8.0\CommonsNET8.AssemblyInfoInputs.cache
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\obj\Debug\net8.0\CommonsNET8.AssemblyInfo.cs
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\obj\Debug\net8.0\CommonsNET8.csproj.CoreCompileInputs.cache
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\bin\Debug\net8.0\CommonsNET8.deps.json
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\bin\Debug\net8.0\CommonsNET8.dll
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\bin\Debug\net8.0\CommonsNET8.pdb
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\obj\Debug\net8.0\CommonsNET8.dll
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\obj\Debug\net8.0\refint\CommonsNET8.dll
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\obj\Debug\net8.0\CommonsNET8.pdb
+C:\Users\jocutuli\source\repos\CommonsDevNET8\CommonsNET8\obj\Debug\net8.0\ref\CommonsNET8.dll

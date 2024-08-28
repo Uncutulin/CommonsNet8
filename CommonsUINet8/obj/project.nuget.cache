@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3ElsB61Bh0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jocutuli\\source\\repos\\CommonsDevNET8\\CommonsUINet8\\CommonsUINet8.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://cps-ea.mil.ar/nugetcps/nuget\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}
